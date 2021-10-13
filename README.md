@@ -1,7 +1,4 @@
-
 ## iae galera
-<link rel = "stylesheet" href = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-
 <div align="center">
   <a href="https://github.com/anderoot">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anderoot&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,19 +14,10 @@
   <img align="center" alt="ande-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ande-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ande-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="ande-debian" height="30" width="40"src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-
-  
 </div>
   
  
 <div> 
- 
   <a href="https://instagram.com/ande.root" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	
  <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  
-  
- 
- 
 </div>
